@@ -1,0 +1,9 @@
+woda;water
+natychmiastowo;immadietely
+telefon;phone
+zamek;castle
+góra;mountain
+język;language
+krowa;cow
+księżyc;moon
+kwiat;flower
