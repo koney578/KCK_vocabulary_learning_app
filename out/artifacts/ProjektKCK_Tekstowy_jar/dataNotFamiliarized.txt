@@ -1,0 +1,12 @@
+komputer;computer
+woda;water
+noc;night
+ryba;fish
+pies;dog
+drzewo;tree
+zamek;castle
+góra;mountain
+język;language
+krowa;cow
+księżyc;moon
+kwiat;flower
