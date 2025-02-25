@@ -1,13 +1,12 @@
 woda;water
 natychmiastowo;immadietely
 noc;night
+ryba;fish
+drzewo;tree
+telefon;phone
 zamek;castle
 góra;mountain
 język;language
 krowa;cow
 księżyc;moon
 kwiat;flower
-ryba;fish
-drzewo;tree
-telefon;phone
-nowe;nowe
